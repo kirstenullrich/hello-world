@@ -1,0 +1,19 @@
+.night {
+	background-color: #000000;
+	color: #bae7ff;
+}
+
+.day {
+	background-color: #ffdea8;
+	color: #511221;
+}
+
+.box {
+	float: left;
+	text-align: center;
+	font-size: 2em;
+	height: 40px;
+	padding: 5px 5px 5px 5px;
+	margin: 0 10px 10px 0;
+	position: relative;
+}
